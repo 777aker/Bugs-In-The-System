@@ -1,5 +1,3 @@
-Kraken Space Defense
-
-A game about defending space from krakens
+Bugs In The System
 
 Going to learn and use Vulkan for this one yipeeeee
